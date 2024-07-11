@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17639855096",
+    "project_id": "flash-chat-25bcc",
+    "storage_bucket": "flash-chat-25bcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17639855096:android:9594cd2054f3f9344e7c0d",
+        "android_client_info": {
+          "package_name": "com.Basheer.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU59OLzPwSmem3hwPwxEmDtnyocgm12nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
